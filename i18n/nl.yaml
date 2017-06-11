@@ -1,0 +1,511 @@
+# Language names TODO: find a better way to do this.
+- id: en
+  translation: "English"
+- id: fr
+  translation: "Français"
+- id: ru
+  translation: "Русский"
+- id: zh-hans
+  translation: "中文"
+- id: zh-hant
+  translation: "繁體中文"
+- id: de
+  translation: "Deutsch"
+- id: ha
+  translation: "עברית"
+- id: nl
+  translation: "Nederlands"
+
+# Titles
+- id: title_lts
+  translation: "Download LTS"
+
+- id: title_about
+  translation: "Over"
+
+- id: title_apps
+  translation: "Download"
+
+- id: title_faq
+  translation: "FAQ"
+
+- id: title_getsiacoin
+  translation: "Koop Siacoin"
+
+- id: title_getstarted
+  translation: "Begin"
+
+- id: title_roadmap
+  translation: "Roadmap"
+
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "Gemeenschap"
+
+- id: header_getsiacoin
+  translation: "KOOP SIACOIN"
+
+### discover ###
+- id: discover_header
+  translation: "Ontdek meer"
+
+- id: discover_whitepaper
+  translation: "Whitepaper"
+
+- id: discover_blog
+  translation: "Blog"
+
+- id: discover_explorer
+  translation: "Blockchain Verkenner"
+
+- id: discover_devdocs
+  translation: "Ontwikkelaars documenten"
+
+### footer ###
+- id: footer_navheader
+  translation: "Wat is Sia?"
+
+- id: footer_moreheader
+  translation: "Meer over Sia"
+
+- id: footer_docs
+  translation: "Documenten"
+
+- id: footer_blog
+  translation: "Blog"
+
+- id: footer_forum
+  translation: "Forum"
+
+- id: footer_siatalk
+  translation: "#siatalk op irc.freenode.net"
+
+- id: footer_backedby
+  translation: "gesupporteerd door"
+
+- id: footer_questions
+  translation: "Vragen over Sia? Contacteer ons!"
+
+- id: footer_contact
+  translation: "Contact"
+
+- id: footer_like
+  translation: "Like ons"
+
+- id: footer_follow
+  translation: "Volg ons"
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "Uw <span class=\"title-highlight\">decentralized</span> private cloud"
+
+- id: index_subtitle
+  translation: "Welkom in een nieuw tijdperk van Blockchain Cloud Storage."
+
+- id: index_getstartedbtn
+  translation: "Begin"
+
+- id: index_watchvideobtn
+  translation: "Bekijk Video"
+
+### info section ###
+- id: index_info1_title
+  translation: "Volledige Privé"
+
+- id: index_info1_content
+  translation: "Sia splits, encrypt, en verspreid uw bestanden op een  gedecentraliseerd netwerk. U alleen heeft de private sleutel, en dus uw data. Geen enkele andere derde partij kan uw bestanden benaderen of controleren, integenstelling tot traditionele cloud storage aanbieders."
+
+- id: index_info2_title
+  translation: "Super goedkoop"
+
+- id: index_info2_content
+  translation: "Sia's gedecentraliseerde cloud is gemiddeld 10 keer goedkoper dan het huidige aanbod cloud storage. 1TB opslag via Sia kost ongeveer $2 per maand, vergeleken met $23 met Amazon S3. Bereken hieronder uw besparing!"
+
+- id: index_info3_title
+  translation: "Extreem redundant"
+
+- id: index_info3_content
+  translation: "Sia bewaard kleine stukjes van uw files op tientallen nodes over heel de wereld. Hierdoor wordt een "single point of failure" uitgesloten en verzekeren we de hoogst mogelijke uptime."
+
+- id: index_info4_title
+  translation: "Open Source"
+
+- id: index_info4_content
+  translation: "Sia is volledig open source. Enkele tientallen individuen hebben bijdrages geleverd aan Sia's software, en er is een achtieve gemeenschap die innovatieve applicaties bouwt op de Sia API."
+
+- id: index_info5_title
+  translation: "Gebouwd op de blockchain"
+
+- id: index_info5_content
+  translation: "Sia maakt een blockchain gedecentraliseerde storage marktplaats waarbij storage hosters met elkaar concureren, dit leidt tot de laagst mogelijke prijs. Gebruikers betalen met Siacoin, dewelke ook gemined en getrade kan worden."
+
+### calculation section ###
+- id: index_calculationheader
+  translation: "Bereken uw besparing!"
+
+- id: index_calculationamount
+  translation: "Hoeveel TB?"
+
+- id: index_calculationprovider
+  translation: "Storage Aanbieder"
+
+- id: index_calculationcost
+  translation: "Maandelijkse Storage Kost"
+
+- id: index_calculationbwcost
+  translation: "Download Bandwidth Kost"
+
+- id: index_calculationprivate
+  translation: "Privé"
+
+- id: index_calculationdecentralized
+  translation: "Gedecentraliseerd"
+
+- id: index_calculationredundancy
+  translation: "Multi regio redundancy ingebrepen"
+
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "Klaar om uw cloud te transformeren?"
+
+- id: index_transformcloudgetstarted
+  translation: "Begin!"
+
+- id: index_transformcloudcontact
+  translation: "Contact"
+
+- id: index_transformcloudwiki
+  translation: "Wiki"
+
+### mailing list ###
+- id: index_mailbutton
+  translation: "Schrijf je in voor niewsberichten"
+
+- id: index_emailform
+  translation: "Email"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "Over ons"
+
+- id: about_subheader
+  translation: "ONZE MISSIE"
+
+### paragraphs ###
+- id: about_p1
+  translation: "Het idee van Sia werd oorspronkelijk bedacht op HackMIT 2013. Wat als je alle ongebruikte opslagruimte ter wereld kon samenvoegen naar een wereldwijde marktplaats voor data?"
+
+- id: about_p2
+  translation: "Sia maakt gebruik van de capaciteit van blockchain-technologie om gedistribueerde netwerken op een veilige en vertrouwenloze manier te bereiken. Cryptografisch beveiligde slimme contracten verzekeren de versleuteling en overdracht van gegevens, zonder dat een derde op welke manier dan ook kan storen."
+
+- id: about_p3
+  translation: "Sia is een nieuwe aanpak van cloud storage platforms. In plaats van alle datacenters die eigendom zijn van een enkel bedrijf, opent Sia de sluizen en stelt iedereen in staat om geld te verdienen door hun harde schijf te verhuren. Gegevensintegriteit wordt beschermd met behulp van redundantie en cryptografie."
+  
+- id: about_p4
+  translation: "De belofte van Sia is een gedecentraliseerd netwerk van datacenters die samen het werelds snelste, goedkoopste en veiligste cloud-opslagplatform vormen. Vandaag is het belangrijk om data centra te hebben, vertrouwen in de markt te creëren, klanten te bereiken en te concurreren met reuzen zoals Amazon, Google en Microsoft."
+
+- id: about_p5
+  translation: "Inbreken op deze markt is een multi-miljard dollar poging. Het langetermijnsdoel van Sia is de backbone opslaglaag van het internet."
+
+- id: about_p6
+  translation: "Wij geloven dat gegevens gratis moeten zijn. We streven ernaar om de ongebruikte bits en bytes van de wereld te bevrijden en de grootste storage superserver op de planeet te bouwen."
+
+### contact ###
+- id: about_contact
+  translation: "Contact"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "Roadmap"
+
+- id: milestones_subheader
+  translation: "MIJLPALEN EN GOALS"
+
+### milestones ###
+- id: milestones_idea
+  translation: "October 2013: Idee"
+
+- id: milestones_angel
+  translation: "June 2014: Angel Investment"
+
+- id: milestones_whitepaper
+  translation: "November 2014: Whitepaper"
+
+- id: milestones_launch
+  translation: "June 2015: Sia Network gaat van start"
+
+- id: milestones_v1
+  translation: "June 2016: Sia Versie 1"
+
+- id: milestones_exchanges
+  translation: "July 2016: Sia op Poloniex, YUNBI, Bitsquare, en ShapeShift"
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous haalt $750k op voor Sia"
+
+- id: milestones_speedboost
+  translation: "January 2017: Upload/Download snelheidsboost"
+
+- id: milestones_instantunlock
+  translation: "Onmiddelijke ontgrendeling van de Wallet"
+
+- id: milestones_hostautopricing
+  translation: "Automatische Host prijszetting"
+
+- id: milestones_seedrecovery
+  translation: "Seed-Based File Recovery"
+
+- id: milestones_filesharing
+  translation: "Bestanden delen"
+
+
+# URL: /lts.html
+- id: lts_explanation1
+  translation: "Sia heeft een speciale lijn van releases genaamd de Long Term Support releases. LTS releases bevatten meestal geen nieuwe functies totdat deze functies al lang in productie zijn, zonder dat er nieuwe of onverwachte bugs zijn onthuld. Dit houdt in dat belangrijke functies (zoals het direct ontgrendelen van de wallet) het niet tot een LTS-release maken tot enkele maanden nadat ze aan het grote publiek zijn vrijgegeven."
+
+- id: lts_explanation2
+  translation: "Alle Sia releases worden grondig getest. Echter, de realiteit is dat bugs het vaak tot in productieversies geraken. Het is ons doel dat geen van onze releases bugs hebben, maar totdat we dat doel consequent kunnen bereiken, bieden we kleine versies van LTS-releases aan voor gebruikers en ontwikkelaars die stabiliteit nodig hebben. Tenzij de stabiliteit kritisch is, raden we aan onze <a href=\"../apps\">productionreleases </a> te gebruiken, die over het algemeen sneller, gebruiksvriendelijker en functioneler zijn."
+
+# URL: /apps/index.html
+### header ###
+- id: apps_ltsheader
+  translation: "Gebruikt u Sia professioneel? Bekijk onze "
+
+- id: apps_ltslinktext
+  translation: "LTS releases."
+
+- id: apps_uiheader
+  translation: "Sia-UI"
+
+- id: apps_uiheaderlts
+  translation: "Sia-UI (LTS)"
+
+- id: apps_uisubheader
+  translation: "Voor gebruikers"
+
+- id: apps_daemonheader
+  translation: "Sia Daemon"
+
+- id: apps_daemonheaderlts
+  translation: "Sia Daemon (LTS)"
+
+- id: apps_daemonsubheader
+  translation: "Voor Ontwikkelaars"
+
+- id: apps_minerheader
+  translation: "Miners"
+
+### miner ###
+- id: apps_download
+  translation: "Download"
+
+- id: apps_miner
+  translation: "Miner"
+
+- id: apps_miner1
+  translation: "De officiële GPU miner"
+
+- id: apps_altminer
+  translation: "Alternatieve Miner"
+
+- id: apps_altminer1
+  translation: "Een GPU miner voor Sia in Go"
+
+- id: apps_sourcecode
+  translation: "Bron code op GitHub"
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "Gebouwd op Sia"
+
+- id: apps_explorerh
+  translation: "Block explorer"
+
+- id: apps_explorerp
+  translation: "Sia Blockchain Explorer"
+
+- id: apps_minebox
+  translation: "Next generation NAS powered by Sia"
+
+- id: apps_siacluster
+  translation: "Data farm monitoring en beheertool voor Sia"
+
+- id: apps_gnomeshell
+  translation: "Sia Cloud Storage Extension voor de GNOME Shell"
+
+- id: apps_siapulse
+  translation: "Analyse tool voor Sia"
+
+
+# URL: /faq.html
+### header ###
+
+- id: faq_header
+  translation: "Veelgestelde vragen"
+
+- id: faq_subheader
+  translation: "DINGEN DIE JE WIL WETEN"
+
+### faqs ###
+
+- id: faq_sia1q
+  translation: "Wat is Sia?"
+- id: faq_sia1a
+  translation: "Sia is een gedecentraliseerd cloud storage platform dat gebruik maakt van een blockchain om betalingen te vergemakkelijken. Op Sia kunt u opslag huren, betaalde hostdossiers ontvangen, mijn Siacon, of bijdragen aan het project!"
+
+- id: faq_sia2q
+  translation: "Waarom Sia?"
+- id: faq_sia2a
+  translation: "Bestaande cloud storage providers zijn gecentraliseerd. De kosten zijn hoog, de data is vaak ongecodeerd, en elke provider heeft gewoonlijk maar enkele grote datacenters. Sia, daarentegen, zorgt voor particuliere, gedecentraliseerde, gedistribueerde cloud opslag tegen een veel lagere prijs."
+
+- id: faq_sia3q
+  translation: "Wat is een Siacoin?"
+- id: faq_sia3a
+  translation: "Sia gebruikt een cryptocurrency, Siacoin, om gedecentraliseerde betalingen via dossiercontracten mogelijk te maken. Alle betalingen op het netwerk gebeuren in Siacoin, dat een cruciaal onderdeel is van onze cryptografische SLA's. Siacoin stelt ons in staat dingen te doen die niet mogelijk zouden zijn met Bitcoin of traditionele online betalingen."
+
+- id: faq_sia4q
+  translation: "Kan ik bijdragen of bouwen op Sia?"
+- id: faq_sia4a
+  translation: "Ja! We zouden we leuk vinden. Sia's code is 100% Open source en kan u vinden op <a href=\"https://github.com/NebulousLabs\">Github</a>."
+
+- id: faq_sia5q
+  translation: "Wie heeft Sia?"
+- id: faq_sia5a
+  translation: "Sia werd gemaakt door David Vorick en Luke Champine van Nebulous Inc, een VC-funded startup in Boston. Leer <a href=\"https://sia.tech/about\">hier</a> ons team en bedrijf beter kennen."
+
+- id: faq_sia6q
+  translation: "Wat als ik nog meer vragen heb?"
+- id: faq_sia6a
+  translation: "Geweldig! Neem een kijke op ons <a href=\"https://forum.sia.tech\">Forum</a> of <a href=\"https://siawiki.tech\">Wiki</a>, en als je nog vragen hebt, dan zijn we verheugd om ze te beantwoord via <a href=\"https://slackin.sia.tech\">Slack</a>."
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "Voorkeur Exchanges"
+
+- id: getsiacoin_subheader
+  translation: "KOOP EN TRADE SIACOINS"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex is een US-based cryptocurrency exchange met maximale beveiliging en geavanceerde trade functies. Begin met traden in een paar minuten na het volgen van enkele eenvoudige stappen."
+
+- id: getsiacoin_yunbi
+  translation: "YUNBI is een toekomstgerichte exchange voor blockchain-activa. YunBI is opgericht in Beijing in 2013 en is gebouwd met de code die door het Peatio Open Source Project wordt uitgegeven. De compliance-principes integriteit, transparantie en open source bieden klanten een veilig en gemakkelijk tradeplatform."
+
+- id: getsiacoin_shapeshift
+  translation: "Shapeshift is een innovatieve nieuwe cryptocurrency-exchange, dat geen langdurig aanmeldingsproces heeft. Stel gewoon uw invoer in op een valuta die u bezit, stel de uitvoer in op Siacoin, plaats uw Siacoin-adres in het vak en klik op Start."
+
+- id: getsiacoin_bittrex
+  translation: "Bittrex is gevestigd en volledig gereguleerd in de VS, en is de go-to spot voor traders die een snelle blitsbeurs, stabiele wallet en industriële veiligheidspraktijken vereisen."
+
+- id: getsiacoin_btn
+  translation: "Get Siacoin"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "Begin"
+
+- id: getstarted_subheader
+  translation: "UW PLAATS IN HET ECOSYSTEEM"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "Oplag"
+
+- id: getstarted_storeiconp
+  translation: "Sla uw bestanden in de Sia cloud op"
+
+- id: getstarted_storeh
+  translation: "Uw bestanden opslaan"
+
+- id: getstarted_storestep1
+  translation: "Download <a href=\"../apps/#ui\">Sia-UI</a>"
+
+- id: getstarted_storestep2
+  translation: "Verkrijg <a href=\"../get-siacoin\">Siacoins</a>"
+
+- id: getstarted_storestep3
+  translation: "Upload uw bestanden met Sia"
+
+- id: getstarted_storestep4
+  translation: "Volg de <a href=\"https://blog.sia.tech/getting-started-with-private-decentralized-cloud-storage-c9565dc8c854\">storage handleiding</a>"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "Host"
+
+- id: getstarted_farmiconp
+  translation: "Wordt betaald voor uw storage space"
+
+- id: getstarted_farmh
+  translation: "Verdien Siacoins"
+
+- id: getstarted_farmstep1
+  translation: "Download <a href=\"../apps/#ui\">Sia-UI</a>"
+
+- id: getstarted_farmstep2
+  translation: "Kies uw storage prijs"
+
+- id: getstarted_farmstep3
+  translation: "Krijg Siacoins van andere Sia gebruikers"
+
+- id: getstarted_farmstep4
+  translation: "Volg de <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">hosting handleiding</a>"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "Mine"
+
+- id: getstarted_mineiconp
+  translation: "Mine Siacoin en beveilig de blockchain"
+
+- id: getstarted_mineh
+  translation: "Mining Siacoin"
+
+- id: getstarted_minestep1
+  translation: "Download de <a href=\"../apps/#miner\">Sia Miner</a>"
+
+- id: getstarted_minestep2
+  translation: "Help het netwerk te beveiligen"
+
+- id: getstarted_minestep3
+  translation: "Ontvang Siacoin"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "API"
+
+- id: getstarted_developiconp
+  translation: "Gebruik Sia als storage backend voor uw applicaties"
+
+- id: getstarted_developh
+  translation: "Gebruik Sia's API"
+
+- id: getstarted_developstep1
+  translation: "Download de <a href=\"../apps/#daemon\">Sia Daemon</a>"
+
+- id: getstarted_developstep2
+  translation: "Koop/trade <a href=\"../get-siacoin\">Siacoin</a>"
+
+- id: getstarted_developstep3
+  translation: "Volg de <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API handleiding</a>"
+
+- id: getstarted_developstep4
+  translation: "Neem de <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API documentatie door</a>"
+
+- id: getstarted_developstep5
+translation: "Gebruik sia als storage backend"
